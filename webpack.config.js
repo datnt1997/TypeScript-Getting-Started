@@ -11,7 +11,7 @@ module.exports = {
   //     }
   //   ]
   // },
-  // resolve: {
+  // resolve: { 
   //   extensions: [ '.tsx', '.ts', '.js' ]
   // },
   // output: {
