@@ -14,7 +14,7 @@ class Scoreboard {
       const result: Result = this.results[index];
       output += `
         <h4>
-          ${result.playerName}: ${result.score}/${result.problemCount} for factor ${result.factor};
+          ${result.playerName}: ${result.score}/${result.problemCount} for factor ${result.factor}
         </h4>
       `
     }
